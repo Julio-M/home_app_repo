@@ -4,3 +4,6 @@
 [submodule "backend/user_collection_service"]
 	path = backend/user_collection_service
 	url = https://github.com/Julio-M/user_collection_service
+[submodule "backend/home_collection_service"]
+	path = backend/home_collection_service
+	url = https://github.com/Julio-M/home_collection_service
