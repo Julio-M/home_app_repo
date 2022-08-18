@@ -1,0 +1,6 @@
+[submodule "my_home_frontend"]
+	path = my_home_frontend
+	url = https://github.com/Julio-M/my_home_frontend
+[submodule "backend/user_collection_service"]
+	path = backend/user_collection_service
+	url = https://github.com/Julio-M/user_collection_service
